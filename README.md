@@ -5,6 +5,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-girofigliomeni.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://girofigliomeni.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-girofigliomeni-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/girofigliomeni)
 
+## About
+
 Cybersecurity professional with a background in software development and an interest in secure systems, automation, and modern technologies.
 
 Based in Ontario, Canada.
