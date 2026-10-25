@@ -13,10 +13,6 @@ Based in Ontario, Canada.
 
 [![Technologies](https://skillicons.dev/icons?i=py,cpp,c,java,js,react,html,css,tailwind,mysql,git,github,vscode,visualstudio,linux,windows&perline=8)](https://skillicons.dev)
 
-## GitHub Stats
-
-![GitHub Stats](https://ghstats.dev/api/card?username=girofigliomeni&theme=nightowl&show_ring=false&size=compact)
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=girofigliomeni&style=flat&color=blue)
