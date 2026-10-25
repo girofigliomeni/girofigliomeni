@@ -1,4 +1,4 @@
-# Giro Figliomeni
+# Girolamo Figliomeni
 
 **Cybersecurity | Software Development | Technology**
 
